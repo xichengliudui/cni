@@ -1,7 +1,3 @@
-# CNI Roadmap
-
-This document defines a high level roadmap for CNI development.
-The list below is not complete, and we advise to get the current project state from the [milestones defined in GitHub](https://github.com/containernetworking/cni/milestones).
 
 ## CNI Milestones
 
