@@ -3,7 +3,7 @@
 
 ### [v0.6.0](https://github.com/containernetworking/cni/milestones/v0.6.0)
 
-- Plugin composition functionality
+
 - IPv6 support
 - Strategy and tooling for backwards compatibility
 - Integrate build artefact generation with CI
