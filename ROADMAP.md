@@ -1,13 +1,9 @@
-# CNI Roadmap
-
-This document defines a high level roadmap for CNI development.
-The list below is not complete, and we advise to get the current project state from the [milestones defined in GitHub](https://github.com/containernetworking/cni/milestones).
 
 ## CNI Milestones
 
 ### [v0.6.0](https://github.com/containernetworking/cni/milestones/v0.6.0)
 
-- Plugin composition functionality
+
 - IPv6 support
 - Strategy and tooling for backwards compatibility
 - Integrate build artefact generation with CI
