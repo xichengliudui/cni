@@ -1,9 +1,5 @@
 # Extension conventions                                                        
-                                                                                 
-There are three ways of passing information to plugins using the Container Network Interface (CNI), none of which require the [spec](SPEC.md) to be updated. These are 
-- plugin specific fields in the JSON config
-- `args` field in the JSON config
-- `CNI_ARGS` environment variable 
+
 
 This document aims to provide guidance on which method should be used and to provide a convention for how common information should be passed.
 Establishing these conventions allows plugins to work across multiple runtimes. This helps both plugins and the runtimes.
