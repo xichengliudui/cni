@@ -53,7 +53,7 @@ But the runtime would fill in the mappings so the plugin itself would receive so
   }
 }
 ```
-
+NewADD-------------------------------------s
 ### Well-known Capabilities
 | Area  | Purpose | Capability | Spec and Example | Runtime implementations | Plugin Implementations |
 | ----- | ------- | -----------| ---------------- | ----------------------- | ---------------------  |
